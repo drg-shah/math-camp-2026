@@ -7,8 +7,6 @@ Welcome to the GitHub page for Math Camp.
 
 Monday-Friday 9:00am to 11:00am PST, September 7-18
 
-## [Syllabus]()
-
 ## [Zoom Link](https://uoregon.zoom.us/j/91092165650?pwd=yUD2n0ZkBpU3Hb2qCOAFjAa6PUtA46.1)
 
 You **must** join from your **@uoregon.edu** account.
