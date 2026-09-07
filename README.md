@@ -16,7 +16,7 @@ You **must** join from your **@uoregon.edu** account.
 ### Lecture 1
 September 7
 
-[Slides]()
+[Slides](https://github.com/drg-shah/math-camp-2026/blob/Lecture1.pdf)
 | [Recording]()
 
 ## Text
