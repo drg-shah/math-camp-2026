@@ -17,7 +17,7 @@ You **must** join from your **@uoregon.edu** account.
 September 7
 
 [Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture1.pdf)
-| [Recording](https://uoregon.zoom.us/rec/share/iLENEzsAaRoL3Qz-hYK92QQbsJVJnk-5y-2ME7GaZGILv4bnV5_q6dsFGWqgw3z-.s5SKkK7qu_EU9o5n?startTime=1788796902000)
+| [Recording](https://uoregon.zoom.us/rec/share/iLENEzsAaRoL3Qz-hYK92QQbsJVJnk-5y-2ME7GaZGILv4bnV5_q6dsFGWqgw3z-.s5SKkK7qu_EU9o5n?startTime=1788796902000Passcode:=%20#@v8X9h)
 
 Passcode (with the leading space): #@v8X9h
 
