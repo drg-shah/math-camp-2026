@@ -21,6 +21,14 @@ September 7
 
 Passcode (everything inside double quotes " "): " =#@v8X9h"
 
+### Lecture 2
+September 8
+
+[Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture2.pdf)
+| [Recording]()
+| [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day2.pdf)
+
+Passcode (everything inside double quotes " "): 
 
 ## Text
 
