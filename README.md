@@ -25,10 +25,10 @@ Passcode (everything inside double quotes " "): " =#@v8X9h"
 September 8
 
 [Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture2.pdf)
-| [Recording]()
+| [Recording](https://uoregon.zoom.us/rec/share/gMmCtawga9Oau1Aj5b0cgKHcPNrb-NW_BQ8bPaDCvPyAdl-hDFzKwGVVgd4-QosD.X0vujQuG4JOpENgg?startTime=1788889643000)
 | [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day2.pdf)
 
-Passcode (everything inside double quotes " "): 
+Passcode (everything inside double quotes): "2vuYk#hV" 
 
 ## Text
 
