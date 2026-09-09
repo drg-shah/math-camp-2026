@@ -30,6 +30,12 @@ September 8
 
 Passcode (everything inside double quotes): "2vuYk#hV" 
 
+### Lecture 3
+
+[Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture3.pdf)
+| [Recording]()
+| [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day3.pdf)
+
 ## Text
 
 The course does not have a required text. A few recommendations are given for
