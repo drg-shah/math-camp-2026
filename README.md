@@ -38,6 +38,16 @@ Passcode (everything inside double quotes): "2vuYk#hV"
 
 Passcode: "R58t.n26"
 
+### Lecture 4
+
+[Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture4.pdf)
+| [Recording]()
+| [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day4.pdf)
+
+Passcode:
+
+
+
 ## Text
 
 The course does not have a required text. A few recommendations are given for
