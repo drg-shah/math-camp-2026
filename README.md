@@ -33,8 +33,10 @@ Passcode (everything inside double quotes): "2vuYk#hV"
 ### Lecture 3
 
 [Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture3.pdf)
-| [Recording]()
+| [Recording](https://urldefense.com/v3/__https://uoregon.zoom.us/rec/share/7M9wwEfXUxlZr8BAB7kmirz4pzb5MX6UIXkXzHB1sKx93ZkyBcwtCZ0cPIUHAd5t.HaBaHpQfzaX2nago__;!!C5qS4YX3!AjmkLjHBEtCvwY-2hHOoqq26eZmxz0POU2VfCcTZO3yPnw084sefxJKt1iEMxNnW8VZ1XtquKN5vQS3SkBS9$)
 | [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day3.pdf)
+
+Passcode: "R58t.n26"
 
 ## Text
 
