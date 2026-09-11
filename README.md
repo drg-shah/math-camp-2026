@@ -50,8 +50,10 @@ September 10
 September 11
 
 [Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture5.pdf)
-| [Recording]()
+| [Recording](https://urldefense.com/v3/__https://uoregon.zoom.us/rec/share/a3rr-tnnz_Jg0zmdJpxV9rSmcJxYinNOHsZwKefI8S10zMkQWNY0wTcYwQtz4Xmi.oartdBm6Uuy-QXSs__;!!C5qS4YX3!BsIddI-QvlUL4QkAXyttUT9AT5BhPJ3WTxfPDZ4Hc-6tQEm-NJD4CwdNIXSnvW2D8U2hzVQR3hM9QXlGT05u$)
 | [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day5.pdf)
+
+Passcode: "$8quM59m"
 
 ## Text
 
