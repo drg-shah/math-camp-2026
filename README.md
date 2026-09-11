@@ -41,12 +41,10 @@ Passcode: "R58t.n26"
 ### Lecture 4
 
 [Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture4.pdf)
-| [Recording]()
+| [Recording](https://uoregon-my.sharepoint.com/:v:/g/personal/dirghayu_uoregon_edu/IQBgA58vptzISotKeAVaRJ50Aaj2il2N_EpGUSPFE_bXMdw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6WSH3t)
 | [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day4.pdf)
 
 Passcode:
-
-
 
 ## Text
 
