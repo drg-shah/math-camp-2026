@@ -31,6 +31,7 @@ September 8
 Passcode (everything inside double quotes): "2vuYk#hV" 
 
 ### Lecture 3
+September 9
 
 [Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture3.pdf)
 | [Recording](https://urldefense.com/v3/__https://uoregon.zoom.us/rec/share/7M9wwEfXUxlZr8BAB7kmirz4pzb5MX6UIXkXzHB1sKx93ZkyBcwtCZ0cPIUHAd5t.HaBaHpQfzaX2nago__;!!C5qS4YX3!AjmkLjHBEtCvwY-2hHOoqq26eZmxz0POU2VfCcTZO3yPnw084sefxJKt1iEMxNnW8VZ1XtquKN5vQS3SkBS9$)
@@ -39,12 +40,14 @@ Passcode (everything inside double quotes): "2vuYk#hV"
 Passcode: "R58t.n26"
 
 ### Lecture 4
+September 10
 
 [Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture4.pdf)
 | [Recording](https://uoregon-my.sharepoint.com/:v:/g/personal/dirghayu_uoregon_edu/IQBgA58vptzISotKeAVaRJ50Aaj2il2N_EpGUSPFE_bXMdw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6WSH3t)
 | [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day4.pdf)
 
 ### Lecture 5
+September 11
 
 [Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture5.pdf)
 | [Recording]()
