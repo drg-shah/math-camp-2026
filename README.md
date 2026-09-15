@@ -59,8 +59,10 @@ Passcode: "$8quM59m"
 September 14
 
 [Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture6.pdf)
-| [Recording]()
+| [Recording](https://urldefense.com/v3/__https://uoregon.zoom.us/rec/share/SAI9Ac2bbHH6OKHURlsvQterpXoK71r7cS92ssS7fH2oKYJvN-Uj_oFQzORkiSpx.wK9ADqoEKFl3_Ikx__;!!C5qS4YX3!D7_awUnWlN9C-VfE5n1BGFMqIu8i6Xow1L4yAfVRplYgefG4aYv_kQ5GDuNe2DbRrYJoJLuRzGjRW-pKe2iC$)
 | [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day6.pdf)
+
+Passcode: "F79+=hGh"
 
 ## Text
 
