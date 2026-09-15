@@ -64,6 +64,15 @@ September 14
 
 Passcode: "F79+=hGh"
 
+### Lecture 7
+September 15
+
+[Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture7.pdf)
+| [Recording]()
+| [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day7.pdf)
+
+Passcode: 
+
 ## Text
 
 The course does not have a required text. A few recommendations are given for
