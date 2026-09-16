@@ -68,8 +68,17 @@ Passcode: "F79+=hGh"
 September 15
 
 [Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture7.pdf)
-| [Recording]()
+| [Recording](https://urldefense.com/v3/__https://uoregon.zoom.us/rec/share/uWEQan9pVQksyiD5ypPldDDNu66HxcHqgkfliEWzHri-Cz7ATTJo8YVfKmvu5EZI.0owLip8SN1HeLeCq__;!!C5qS4YX3!BQydFDAh3qde1ld644FME75qtFnhwI_IOfpswvD7GfmYTHytMn36ygC-CLKANMx2EQdNAnkE9D_0qO3jUd24$)
 | [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day7.pdf)
+
+Passcode: "6x!q2+L."
+
+### Lecture 8
+Septemeber 16
+
+[Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture8.pdf)
+| [Recording]()
+| [Exercise](https://github.com/drg-shah/math-camp-2026/blob/main/Exercise_Day8.pdf)
 
 Passcode: 
 
