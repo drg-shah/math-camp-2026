@@ -82,6 +82,15 @@ Septemeber 16
 
 Passcode: 
 
+### Lecture 9
+Septemeber 17
+
+[Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture9.pdf)
+| [Recording]()
+
+Passcode: 
+
+
 ## Text
 
 The course does not have a required text. A few recommendations are given for
