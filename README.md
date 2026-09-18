@@ -86,10 +86,17 @@ Passcode:
 Septemeber 17
 
 [Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture9.pdf)
+| [Recording](https://urldefense.com/v3/__https://uoregon.zoom.us/rec/share/V6cN6wB5Sxp_u2Snk_MUwbh6kA3QqLW1yuscXwDXjWKwv4VHKPUICkaXSC7mOB20.vEktx7-t3HXoI84P__;!!C5qS4YX3!BmGpjowyr5QVldCp87E-tGYyCc1jgrl-c24zgIXVwhtpsWhJZtb9WgBxRkoC70Zft-2fTT7D4CjnZWrCUIv_$)
+
+Passcode: "3zJUKth"
+
+### Lecture 10
+Septemeber 18
+
+[Slides](https://github.com/drg-shah/math-camp-2026/blob/main/Lecture10.pdf)
 | [Recording]()
 
 Passcode: 
-
 
 ## Text
 
